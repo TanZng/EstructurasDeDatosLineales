@@ -1,3 +1,60 @@
 [submodule "Listas_cpp"]
 	path = Listas_cpp
 	url = /Users/tanx/Desktop/data/Listas_cpp
+[submodule "Listas_doblemente_ligadas"]
+	path = Listas_doblemente_ligadas
+	url = /Users/tanx/Desktop/data/Listas_doblemente_ligadas
+[submodule "Listas_ligadas"]
+	path = Listas_ligadas
+	url = /Users/tanx/Desktop/data/Listas_ligadas
+[submodule "Listas_ligadas_circulares"]
+	path = Listas_ligadas_circulares
+	url = /Users/tanx/Desktop/data/Listas_ligadas_circulares
+[submodule "Mercado_De_Valores"]
+	path = Mercado_De_Valores
+	url = /Users/tanx/Desktop/data/Mercado_De_Valores
+[submodule "Pilas"]
+	path = Pilas
+	url = /Users/tanx/Desktop/data/Pilas
+[submodule "ç"]
+	path = ç
+	url = /Users/tanx/Desktop/data/Planificador_CPU
+[submodule "Planificador_CPU"]
+	path = Planificador_CPU
+	url = /Users/tanx/Desktop/data/Planificador_CPU
+[submodule "Notaciones"]
+	path = Notaciones
+	url = /Users/tanx/Desktop/data/Notaciones
+[submodule "Cola_mediante_listas"]
+	path = Cola_mediante_listas
+	url = /Users/tanx/Desktop/data/Cola_mediante_listas
+[submodule "Cola_ligada"]
+	path = Cola_ligada
+	url = /Users/tanx/Desktop/data/Cola_ligada
+[submodule "Cola_con_arreglos"]
+	path = Cola_con_arreglos
+	url = /Users/tanx/Desktop/data/Cola_con_arreglos
+[submodule "TorresHanoi"]
+	path = TorresHanoi
+	url = /Users/tanx/Desktop/data/TorresHanoi
+[submodule "fractales"]
+	path = fractales
+	url = /Users/tanx/Desktop/data/fractales
+[submodule "Ej15AlgoritmosRecursivos"]
+	path = Ej15AlgoritmosRecursivos
+	url = /Users/tanx/Desktop/data/Ej15AlgoritmosRecursivos
+[submodule "TercerExamen"]
+	path = TercerExamen
+	url = /Users/tanx/Desktop/data/TercerExamen
+[submodule "Pilas-con-arreglos"]
+	path = Pilas-con-arreglos
+	url = /Users/tanx/Desktop/data/Pilas-con-arreglos
+[submodule "Pila_ligada"]
+	path = Pila_ligada
+	url = /Users/tanx/Desktop/data/Pila_ligada
+[submodule "OrdenamientoRecursivo"]
+	path = OrdenamientoRecursivo
+	url = /Users/tanx/Desktop/data/OrdenamientoRecursivo
+[submodule "Algoritmos_iterativos_de_busqueda"]
+	path = Algoritmos_iterativos_de_busqueda
+	url = /Users/tanx/Desktop/data/Algoritmos_iterativos_de_busqueda
